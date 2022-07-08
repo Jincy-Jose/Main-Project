@@ -1,4 +1,4 @@
-# Network Intrusion Detection
+# Network Intrusion Detection for imbalanced dataset
 
 * The problem is to identify whether a network connection is good or malicious.
 * We are building a predictive model distinguishing intrusions or attacks from normal connections.
