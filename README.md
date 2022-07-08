@@ -1,2 +1,2 @@
 # Main-Project
-Handling Imbalanced Datasets
+Handling Imbalanced Datasets - Network Intrusion Detection
